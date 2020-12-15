@@ -6,7 +6,7 @@ module.exports = {
 // This is the name of the action displayed in the editor.
 //---------------------------------------------------------------------
 
-name: "播放YouTube视频",
+name: "播放YouTube影片",
 
 //---------------------------------------------------------------------
 // Action Section
@@ -14,7 +14,7 @@ name: "播放YouTube视频",
 // This is the section the action will fall into.
 //---------------------------------------------------------------------
 
-section: "声音控制",
+section: "聲音控制",
 
 //---------------------------------------------------------------------
 // Requires Audio Libraries
