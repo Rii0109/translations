@@ -6,7 +6,7 @@ module.exports = {
 // This is the name of the action displayed in the editor.
 //---------------------------------------------------------------------
 
-name: "删除表情",
+name: "刪除表情",
 
 //---------------------------------------------------------------------
 // Action Section
