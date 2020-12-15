@@ -1,9 +1,10 @@
-Hello,There.
-你好，我是主持这次翻译的人
-我是谁并不重要，让我们开始安装我的翻译包吧
-首先你必须得把你的DiscordBotMaker版本设置为测试版本
-如果你不会，，，那么请打开您的Steam商店->右击应用->属性->测试->选择你的测试（beta）
-如果还是不会，没关系，请进入DBM的官方Discord群聊
-发送!info beta到support频道里，机器人回手把手教你（Wuwuwu）
-然后将安装包里的两个文件夹覆盖到主目录里，然后打开软件，选择Language，Chinese，好了就这样完成了
-BUG反馈QQ:1653573879 Discord:王世杰#1789
+Halo,There
+你好，我是Rii，是個台灣人，並撰寫這一次翻譯的人
+讓我們開始安裝我的翻譯包吧(∩_∩)
+首先你必須得把我的DiscordBotMaker版本設置為測試版本(Beta版)
+如果你不會的話，那麼就請打開您的Steam商店->右擊應用->屬性->測試->選擇你的測試(Beta)
+如果還是有疑問，沒有關係，請進入到DBM的官方Discord群聊
+發送!info beta到support頻道裡，機器人會手把手的領導你
+然後將安裝包裡的兩個文件夾夾覆蓋到主目錄裡，然後打開軟件，選擇Language，Chinese，好了就這樣完成了
+
+BUG反應->Discord:Rii#9557
