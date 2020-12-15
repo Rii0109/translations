@@ -6,7 +6,7 @@ module.exports = {
 // This is the name of the action displayed in the editor.
 //---------------------------------------------------------------------
 
-name: "发送消息",
+name: "發送消息",
 
 //---------------------------------------------------------------------
 // Action Section
