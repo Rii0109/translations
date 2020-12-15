@@ -6,7 +6,7 @@ module.exports = {
 // This is the name of the action displayed in the editor.
 //---------------------------------------------------------------------
 
-name: "创建Emoji（表情）",
+name: "創建Emoji（表情）",
 
 //---------------------------------------------------------------------
 // Action Section
