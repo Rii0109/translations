@@ -14,7 +14,7 @@ commandOnly: true,
 // This is the name of the action displayed in the editor.
 //---------------------------------------------------------------------
 
-name: "存储命令参数",
+name: "儲存命令參數",
 
 //---------------------------------------------------------------------
 // Action Section
