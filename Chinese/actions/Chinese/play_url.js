@@ -14,7 +14,7 @@ name: "播放URL",
 // This is the section the action will fall into.
 //---------------------------------------------------------------------
 
-section: "声音控制",
+section: "聲音控制",
 
 //---------------------------------------------------------------------
 // Requires Audio Libraries
