@@ -1,5 +1,5 @@
 {
-	"Discord Bot Maker": "機器人制作 Made by Rii",
+	"Discord Bot Maker": "機器人製作 Made by Rii",
 	"Message": "消息",
 	"Server Member": "伺服器成員",
 	"Channel": "頻道",
@@ -134,7 +134,7 @@
 	"Mentioned User Roles": "提及用户所在的用户组",
 	"Command Author Roles": "命令發出者的用户组",
 	"If True:": "如果有:",
-	"If False:": "如果没有:",
+	"If False:": "如果沒有:",
 	"Continue Actions": "繼續操作",
 	"Stop Action Sequence": "停止動作序列",
 	"Jump To Action": "跳轉到行動",
